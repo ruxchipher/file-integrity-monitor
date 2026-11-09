@@ -6,7 +6,7 @@ deleted. It exits with a non-zero status when anything changed, so it drops
 straight into cron or CI as an alert.
 
 Part of the blue-team work around my
-[purple-team-journey](https://github.com/Siddique-12300983/purple-team-journey)
+[purple-team-journey](https://github.com/ruxchipher/purple-team-journey)
 lab.
 
 ## Why it matters
@@ -35,7 +35,7 @@ baseline is portable.
 Python 3.9 or newer, standard library only.
 
 ```bash
-git clone https://github.com/Siddique-12300983/file-integrity-monitor.git
+git clone https://github.com/ruxchipher/file-integrity-monitor.git
 cd file-integrity-monitor
 ```
 
